@@ -2,8 +2,8 @@
 #Github:https://github.com/kkkgo/dnspod-ddns-with-bashshell
 #More: https://03k.org/dnspod-ddns-with-bashshell.html
 #CONF START
-API_ID=AKIDc3E8l8AvPcYDbiY8RTFjxtZz80bvykFT
-API_Token=0jBNIwJQGp78tNaVAZhY8RTEivRgeLlu
+API_ID=AKIDc3E8l8AvPcYDbiY8RTFjxtZz80bvykF
+API_Token=0jBNIwJQGp78tNaVAZhY8RTEivRgeLl
 domain=norton.fun
 host=nas
 CHECKURL="http://ip.03k.org"
